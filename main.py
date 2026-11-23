@@ -7,7 +7,7 @@ input, deterministic: the same joke every run.
 
 import os
 
-JOKE = "My coding agent ran the demo, the app crashed, and it fixed the bug by deleting the demo."
+JOKE = "My coding agent ran the live demo, the app crashed, and it kept presenting the error screen as the new feature."
 
 
 def main() -> None:
